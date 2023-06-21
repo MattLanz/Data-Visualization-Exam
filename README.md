@@ -1,5 +1,8 @@
 # Data-Visualization-Exam
 
+![DataVisualization](https://github.com/MattLanzUnimib/Data-Visualization-Exam/assets/98222024/0b054d6f-a235-4805-99f3-79cc84b63edd)
+
+
 Final project for the Data Visualization Exam, year 2021/2022. 
 
 # Aim of the project
